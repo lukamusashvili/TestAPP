@@ -3,9 +3,11 @@ const Index = () => (
     <header>
         <title>Title Goes here</title>
     </header>
-    <div>
-        This is a test app.
-    </div>
+    <body>
+        <div style="color:red;">
+            Body Goes here
+        </div>
+    </body>
     </html>
 )
 
